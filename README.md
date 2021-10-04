@@ -27,6 +27,8 @@ To use it simply run `passman` from the terminal.
                 show [index] -- show an existing record at [index]
                 rm [index] -- remove an existing record at [index]
                 cp [index] -- copy password to clipboard of an existing record at [index]
+                import [filename] -- import records from csv file
+                export [filename] -- export records to csv file
                 exit -- exit passman
                 ?, help -- print this help message
 ```
